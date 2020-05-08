@@ -26,3 +26,5 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+pages:
+- exampleSite/content/seus-hábitos-interferem-nas-marcas-de-expressão.md
