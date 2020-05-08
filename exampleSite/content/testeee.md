@@ -5,7 +5,7 @@ description = "Descição"
 image = "/images/logo-1.png"
 tags = ["Shampoo"]
 title = "Testeee"
-type = "post"
+type = "featured"
 
 +++
 Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto. Aqui está o texto.  
