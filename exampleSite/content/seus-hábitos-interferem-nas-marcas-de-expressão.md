@@ -2,7 +2,6 @@
 categories = ["Pele"]
 date = 2020-05-08T03:00:00Z
 description = "Cuidado! Você mesmo pode estar causando suas tão temidas marcas de expressão!"
-draft = true
 image = "/images/0_zJoyUyQ2fCyKiGzk.jpg"
 tags = ["Cuidados", "Rugas de Expressão"]
 title = "Seus hábitos interferem nas marcas de expressão."
