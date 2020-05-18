@@ -1,4 +1,4 @@
-baseURL = "https://finaflor.netlify.app/"
+baseURL = "https://v-proj.netlify.app/"
 languageCode = "pt-br"
 paginate = 6
 summaryLength = "10"
